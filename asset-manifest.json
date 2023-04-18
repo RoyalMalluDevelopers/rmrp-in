@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/rmrp-in/static/css/main.31d6cfe0.css",
+    "main.js": "/rmrp-in/static/js/main.73d77ee7.js",
+    "index.html": "/rmrp-in/index.html",
+    "main.73d77ee7.js.map": "/rmrp-in/static/js/main.73d77ee7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.73d77ee7.js"
+  ]
+}
